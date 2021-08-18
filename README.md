@@ -1,5 +1,7 @@
 -Stanjhae/README.md
-Hi there 👋 I am Stanjhae 
+
+Hi there 👋 I am Stanjhae.
+ 
 I am a frontend developer😎, fourth year computer engineering undergraduate, who currently works as a freelance Frontend developer on various projects.
 
 Aside coding fun projects, I enjoy 👩‍🏫teaching others how to code, 🎤speaking at events and 📖learning new things. Some of my 💻projects are available here
