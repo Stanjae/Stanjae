@@ -2,11 +2,11 @@
 
 Hi there 👋 I am Stanjhae.
  
-I am a frontend developer😎, fourth year computer engineering undergraduate, who currently works as a freelance Frontend developer on various projects.
+I am a Django + React developer😎, Final year computer engineering undergraduate, who currently works as a freelance Full-stack developer on various projects.
 
 Aside coding fun projects, I enjoy 👩‍🏫teaching others how to code, 🎤speaking at events and 📖learning new things. Some of my 💻projects are available here
 
-🤓 I'm currently learning Vue and Tailwind CSS.
+🤓 I am proficient in React.Js, Vue.js and Tailwind CSS.
 🤔 I’m looking for frontend development gigs
 💬 Ask me about HTML/CSS, Stamjhae/README.md
 💬 Ask me about HTML/CSS, JavaScript, Vue.js, Content creation and Wordpress
