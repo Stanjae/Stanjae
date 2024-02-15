@@ -2,7 +2,7 @@
 
 Hi there 👋 I am Stanjhae.
  
-I am a Django + React developer😎, Final year computer engineering undergraduate, who currently works as a freelance Full-stack developer on various projects.
+I am a React developer😎, Computer engineering graduate, who currently works as a freelance Full-stack developer on various projects.
 
 Aside coding fun projects, I enjoy 👩‍🏫teaching others how to code, 🎤speaking at events and 📖learning new things. Some of my 💻projects are available here
 
